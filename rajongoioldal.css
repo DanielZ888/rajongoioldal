@@ -1,0 +1,51 @@
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+    background-color: #f0f0f0;
+    
+}
+
+.header-img {
+    margin: 0 0px;
+    object-fit: cover;
+    
+}
+
+.korkep {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    width: 70%;
+    height: 70%;
+    
+    
+}
+
+.kozepkep {
+    width: 200px;
+    height: 100px;
+    border-radius: 20px;
+    width: 200%;
+    height: 200%;
+}
+#tabla{
+    border-collapse: collapse;
+    border: black solid 6px;
+}
+nav{
+    border-top: solid black 5px;
+    border-bottom: solid black 5px;
+}
+#tudnivalok{
+    border: solid black 5px;
+    border-radius: 10px;
+    background:  #fff;
+}
+#övek{
+    width: 500%;
+}
+span{
+    font-weight: bold;
+}
